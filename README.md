@@ -1,1 +1,1 @@
-# Infra-code
+infra as a code
